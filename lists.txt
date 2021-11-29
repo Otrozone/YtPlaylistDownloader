@@ -1,20 +1,10 @@
-#90s
-https://www.youtube.com/watch?v=NmJUPdTzp2g&list=PLoI7sfQSgSaEiMhS_HaRhKkA7LWMqkYXQ
-#DnB sets
-https://www.youtube.com/watch?v=UzxbO_A3ztY&list=PLoI7sfQSgSaEos4sbcNg3l__-TZGoDA4t
-#Orchestra cover
-https://www.youtube.com/watch?v=9NeYfCJg5Qs&list=PLoI7sfQSgSaEw0oQ2EUDlG_oRjAFy7jmY
-#Drum and bass - Neuro
-https://www.youtube.com/watch?v=bAhabqiaL50&list=PLoI7sfQSgSaFJRnAdRvd3LassmfGNUahX
-#Oldies
-https://www.youtube.com/watch?v=7yHTpGog0IY&list=PLoI7sfQSgSaGwrWP2aPZf5IdyeUEozrJm
-#Piano
-https://www.youtube.com/watch?v=EFJ7kDva7JE&list=PLoI7sfQSgSaHvYwuUwNKIxOwEQypvECSw
-#Chill
-https://www.youtube.com/watch?v=PZbkF-15ObM&list=PLoI7sfQSgSaEt-W_o8zEIj7aV6Q0dDZFK
-#Other electro styles
-https://www.youtube.com/watch?v=MjGw7kzN8hY&list=PL28A04B17F64E3E4F
-#Dubstep
-https://www.youtube.com/watch?v=wWC_WZ7gd6g&list=PL1CAFE3F4A65B4FF9
-#Drumm and bass
-https://www.youtube.com/watch?v=hKY_geCcI-g&list=PL61F692FFDC319646
+90s|https://www.youtube.com/watch?v=NmJUPdTzp2g&list=PLoI7sfQSgSaEiMhS_HaRhKkA7LWMqkYXQ
+DnB sets|https://www.youtube.com/watch?v=UzxbO_A3ztY&list=PLoI7sfQSgSaEos4sbcNg3l__-TZGoDA4t
+Orchestra cover|https://www.youtube.com/watch?v=9NeYfCJg5Qs&list=PLoI7sfQSgSaEw0oQ2EUDlG_oRjAFy7jmY
+Drum and bass - Neuro|https://www.youtube.com/watch?v=bAhabqiaL50&list=PLoI7sfQSgSaFJRnAdRvd3LassmfGNUahX
+Oldies|https://www.youtube.com/watch?v=7yHTpGog0IY&list=PLoI7sfQSgSaGwrWP2aPZf5IdyeUEozrJm
+Piano|https://www.youtube.com/watch?v=EFJ7kDva7JE&list=PLoI7sfQSgSaHvYwuUwNKIxOwEQypvECSw
+Chill|https://www.youtube.com/watch?v=PZbkF-15ObM&list=PLoI7sfQSgSaEt-W_o8zEIj7aV6Q0dDZFK
+Other electro styles|https://www.youtube.com/watch?v=MjGw7kzN8hY&list=PL28A04B17F64E3E4F
+Dubstep|https://www.youtube.com/watch?v=wWC_WZ7gd6g&list=PL1CAFE3F4A65B4FF9
+Drumm and bass|https://www.youtube.com/watch?v=hKY_geCcI-g&list=PL61F692FFDC319646
