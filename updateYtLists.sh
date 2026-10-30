@@ -1,5 +1,5 @@
 #!/bin/bash
-OUTPUT_PATH=/media/Media/Audio/Youtube
+OUTPUT_PATH=/mnt/T7/Audio/Youtube
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 while IFS="" read -r p || [ -n "$p" ]
 do
